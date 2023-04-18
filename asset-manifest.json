@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/practice-react-github_pages/static/css/main.abd64e84.css",
+    "main.js": "/practice-react-github_pages/static/js/main.09b7b3e6.js",
+    "static/media/logo.svg": "/practice-react-github_pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/practice-react-github_pages/index.html",
+    "main.abd64e84.css.map": "/practice-react-github_pages/static/css/main.abd64e84.css.map",
+    "main.09b7b3e6.js.map": "/practice-react-github_pages/static/js/main.09b7b3e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.09b7b3e6.js"
+  ]
+}
